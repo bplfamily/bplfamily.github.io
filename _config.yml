@@ -57,14 +57,11 @@ defaults:
       layout: "git-wiki-blog"
 
 plugins:
- - jekyll-feed
  - jekyll-redirect-from
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-avatar
  - jemoji
- - jekyll-mentions
-  
 #
 # INCLUDING HOOKS
 # They are optional, change them only if you need
