@@ -1,4 +1,4 @@
-#Token Sales
+# Token Sales
 
 
 ## Mina Sale
@@ -10,6 +10,6 @@ The world’s lightest blockchain, creating a private gateway between the real w
 
 Ankit's suggestion: We buy $2500 worth of Mina.
 
-##Casper Sale
+## Casper Sale
 
 Empty hands
