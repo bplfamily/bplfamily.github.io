@@ -1,9 +1,6 @@
 # Reinforcement Learning
 
-## Course Overview
-
-
 ## Important people to look for
 
-### David Silver
-### John Langford
+1. David Silver
+2. John Langford
