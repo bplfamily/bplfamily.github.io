@@ -5,7 +5,7 @@ remote_theme: Drassil/git-wiki-theme@master
 description: Latecomers
 show_downloads: false
 show_wiki_pages: true
-show_wiki_pages_limit: 10
+show_wiki_pages_limit: 20
 paginate: 5
 paginate_path: "assets/blog/page:num"
 blog_feature: true
