@@ -1,13 +1,10 @@
-# Course on Blockchain and Money
-
-
 # MIT course on **Blockchain and Money** (Prof. Gary Gensler)
 
 
 The course begins with a review of Bitcoin and an understanding of the commercial, technical, and public policy fundamentals of blockchain technology, distributed ledgers, and smart contracts. The class then continues on to current and potential blockchain applications in the financial sector. 
 
 
-## Course Overview
+## Overview
 
 ### Part 1
 
