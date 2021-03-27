@@ -3,11 +3,11 @@
 
 ## Past week tasks
 
-### Create a Coinlist account.
+1. Create a Coinlist account.
 
-### Complete KYC on Coinlist account
+2. Complete KYC on Coinlist account
 
 ## Current week tasks
 
-### Know more about Mina Protocol.
-### Finish 3 lectures from the MIT course
+1. Know more about Mina Protocol.
+2. Finish 3 lectures from the MIT course
