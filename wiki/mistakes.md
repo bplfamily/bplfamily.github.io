@@ -1,9 +1,5 @@
 # Mistakes
 
 
-## Mistakes we made
-
-
-### Automation 
-
-### Laziness
+1. Automation 
+2. Laziness
