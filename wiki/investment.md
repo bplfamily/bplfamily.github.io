@@ -1,6 +1,3 @@
-#Investments
-
-
 <div class="section">
     <h3>Investment</h3>
     <div class="hbar"> </div>
