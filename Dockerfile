@@ -1,14 +1,13 @@
-FROM jekyll/builder
+FROM jekyll/jekyll:pages
 
-WORKDIR /tmp
-ADD Gemfile /tmp/
-ADD Gemfile.lock /tmp/
-RUN bundle install
+COPY Gemfile* /srv/jekyll/
 
-FROM jekyll/jekyll
+WORKDIR /srv/jekyll
 
-VOLUME /src
+RUN apk update && \
+	apk add ruby-dev gcc make curl build-base libc-dev libffi-dev zlib-dev libxml2-dev libgcrypt-dev libxslt-dev python
+
+RUN bundle config build.nokogiri --use-system-libraries && \
+	bundle install
+
 EXPOSE 4000
-
-WORKDIR /src
-ENTRYPOINT ["jekyll", "serve", "--livereload", "-H", "0.0.0.0"]

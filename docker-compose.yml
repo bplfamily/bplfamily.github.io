@@ -1,11 +1,31 @@
-version: '2'
+version: '3.7'
 services:
-  server:
-    build:
+  github-wiki:
+    build: 
       context: .
-      dockerfile: Dockerfile
-    image: result/latest
+      dockerfile: .env-files/Dockerfile.github
     ports:
-      - "4000:4000"
+     - 4000:4000
+     - 35729:35729
+    environment: 
+     - BUNDLE_GEMFILE=.env-files/Gemfile.github
     volumes:
-      - ".:/src"
+     - .:/srv/jekyll
+     - github_site:/srv/jekyll/_site
+    command: bundle exec jekyll serve --host 0.0.0.0 --force_polling --livereload
+  gitlab-wiki:
+    build: 
+      context: .
+      dockerfile: .env-files/Dockerfile.gitlab
+    ports:
+      - 4000:4000
+      - 35729:35729
+    environment: 
+     - BUNDLE_GEMFILE=.env-files/Gemfile.gitlab
+    volumes:
+     - .:/srv/jekyll
+     - gitlab_site:/srv/jekyll/_site
+    command: 'bundle exec jekyll serve --host 0.0.0.0 --force_polling --livereload'
+volumes: 
+  github_site:
+  gitlab_site:
