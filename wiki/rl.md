@@ -4,3 +4,8 @@
 
 1. David Silver
 2. John Langford
+
+
+## Papers on Safe Exploration
+
+
