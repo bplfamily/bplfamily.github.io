@@ -3,7 +3,7 @@ Polkadot Parachains allocation has started, [Acala Network](https://cryptoslate.
 
 A **parachain** is an application-specific data structure that is globally coherent and validatable by the validators of the Polkadot Relay Chain.
 
-## Current Investement Strategy
+### Current investement strategy
 
 I'm planning to buy the following coins allocated $500 each:
 1. [Robonomics Network](https://robonomics.network/) (XRT)
