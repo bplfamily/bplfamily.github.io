@@ -10,10 +10,6 @@ The topics this wiki deals with:
 2. Courses that we follow.
 3. Anything else that strike our fancy.
 
-# Weekly tasks
-
-See [here](tasks.md).
-
 {% include_relative tasks.md %}
 
 # Courses and Schedule
