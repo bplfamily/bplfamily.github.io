@@ -16,5 +16,5 @@ The topics this wiki deals with:
 
 # Courses and Schedule
 
-1. ["Blockchain and Money](course_blockchain.md): Every Sunday at 10 PM CET.
-2. ["Reinforcement Learning"](rl.md): Every Friday at 10 PM CET.
+1. ["Blockchain and Money](course_blockchain): Every Sunday at 10 PM CET.
+2. ["Reinforcement Learning"](rl): Every Friday at 10 PM CET.
