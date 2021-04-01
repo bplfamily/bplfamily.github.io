@@ -12,7 +12,9 @@ The topics this wiki deals with:
 
 # Weekly tasks
 
-See [here](tasks.md)
+See [here](tasks.md).
+
+{% include_relative tasks.md %}
 
 # Courses and Schedule
 
