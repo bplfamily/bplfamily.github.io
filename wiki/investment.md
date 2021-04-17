@@ -32,42 +32,43 @@ b). Previous years' coins
 [Zcash](https://coinmarketcap.com/currencies/zcash/): Alakh predicts  2x in the next couple weeks
 
 
-Other coins:
+	Other coins:
 
 [historical](https://coinmarketcap.com/historical/)[verge](https://coinmarketcap.com/currencies/verge/)
 [ador](https://coinmarketcap.com/currencies/ardor/)[steem](https://coinmarketcap.com/currencies/steem/)
 [bitshares](https://coinmarketcap.com/currencies/bitshares/)[bytom](https://coinmarketcap.com/currencies/bytom/)
 
-Gamble: 
+	Gamble: 
 
 [tigercash](https://coinmarketcap.com/currencies/tigercash/)
 
-Top Centralized exchange Tokens by Market Capitalization
+	Top Centralized exchange Tokens by Market Capitalization
+
 [CentralizedExchangeTokens](https://coinmarketcap.com/view/centralized-exchange/)
 
 
 
 c). NFT Tokens
 
-Ankit's Proposals
+	Ankit's Proposals
 
-1. Ecomi
-2. Digicol
-3. Ern
-
-
-Alakh's Proposals
-
-1. Abyss
-2. Atari
-3. Axis Infinity
+	1. Ecomi
+	2. Digicol
+	3. Ern
 
 
-Other potential NFTs
+	Alakh's Proposals
 
-1. Chilliz (high risk)
-2. Enjin coin
-3. Myneighboralice
-4. Eco (typo?)
-5. Superfarm
-6. Theta
+	1. Abyss
+	2. Atari
+	3. Axis Infinity
+
+
+	Other potential NFTs
+
+	1. Chilliz (high risk)
+	2. Enjin coin
+	3. Myneighboralice
+	4. Eco (typo?)
+	5. Superfarm
+	6. Theta
