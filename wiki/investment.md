@@ -10,12 +10,10 @@
 
 ## Polkadot systems
 
-	1. Ocean
-	2. Ontology
 
-<https://coinmarketcap.com/currencies/polkadot-new/>
-<https://coinmarketcap.com/currencies/ontology>
-<https://coinmarketcap.com/currencies/ocean-protocol/>
+1. [polkadot-new](https://coinmarketcap.com/currencies/polkadot-new/)
+2. [Ontology](https://coinmarketcap.com/currencies/ontology>)
+3. [Ocean](https://coinmarketcap.com/currencies/ocean-protocol/)
 
 ## Previous years' coins
 	
