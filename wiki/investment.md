@@ -13,18 +13,23 @@
 	1. Ocean
 	2. Ontology
 
-	<https://coinmarketcap.com/currencies/polkadot-new/>
-	<https://coinmarketcap.com/currencies/ontology>
-	<https://coinmarketcap.com/currencies/ocean-protocol/>
+<https://coinmarketcap.com/currencies/polkadot-new/>
+<https://coinmarketcap.com/currencies/ontology>
+<https://coinmarketcap.com/currencies/ocean-protocol/>
 
 ## Previous years' coins
 	
 
 <https://coinmarketcap.com/currencies/qtum/>
+
 <https://coinmarketcap.com/currencies/neo/>
+
 <https://coinmarketcap.com/currencies/iota/>
+
 <https://coinmarketcap.com/currencies/algorand/>
+
 <https://coinmarketcap.com/currencies/dash/>
+
 <https://coinmarketcap.com/currencies/eos/>
 
 
@@ -34,25 +39,28 @@ Aave: Alakh prediction is it is probably going to increase in the next 2-3 days 
 
 
 Zcash: Alakh predicts  2x in the next couple weeks
+
 https://coinmarketcap.com/currencies/zcash/
 
 
-https://coinmarketcap.com/historical/
-https://coinmarketcap.com/currencies/verge/
-https://coinmarketcap.com/currencies/ardor/
-https://coinmarketcap.com/currencies/steem/
-https://coinmarketcap.com/currencies/bitshares/
-https://coinmarketcap.com/currencies/bytom/
+<https://coinmarketcap.com/historical/>
+
+<https://coinmarketcap.com/currencies/verge/>
+
+<https://coinmarketcap.com/currencies/ardor/>
+
+<https://coinmarketcap.com/currencies/steem/>
+
+<https://coinmarketcap.com/currencies/bitshares/>
+
+<https://coinmarketcap.com/currencies/bytom/>
 
 Gamble: 
-https://coinmarketcap.com/currencies/tigercash/
-https://coinmarketcap.com/view/centralized-exchange/
 
-https://coinmarketcap.com/currencies/polkadot-new/
-https://coinmarketcap.com/currencies/ontology/
- for polkadot
-https://coinmarketcap.com/currencies/ocean-protocol/
-for polkadot again
+<https://coinmarketcap.com/currencies/tigercash/>
+
+<https://coinmarketcap.com/view/centralized-exchange/>
+
 
 
 ## NFT Tokens
