@@ -18,16 +18,17 @@ a). Polkadot systems
 b). Previous years' coins
 	
 
-[qtum](https://coinmarketcap.com/currencies/qtum/)[neo](https://coinmarketcap.com/currencies/neo/)
-[iota](https://coinmarketcap.com/currencies/iota/)[algorand](https://coinmarketcap.com/currencies/algorand/)
-[dash](https://coinmarketcap.com/currencies/dash/)[eos](https://coinmarketcap.com/currencies/eos/)
+		[qtum](https://coinmarketcap.com/currencies/qtum/)[neo](https://coinmarketcap.com/currencies/neo/)
+		[iota](https://coinmarketcap.com/currencies/iota/)[algorand](https://coinmarketcap.com/currencies/algorand/)
+		[dash](https://coinmarketcap.com/currencies/dash/)[eos](https://coinmarketcap.com/currencies/eos/)
 
 
-[aave](https://coinmarketcap.com/currencies/aave/)  Alakh prediction is it is probably going to increase in the next 2-3 days to 500
+	Alakh's predictions:
+		[aave](https://coinmarketcap.com/currencies/aave/)  Alakh prediction is it is probably going to increase in the next 2-3 days to 500
 
 
 
-[Zcash](https://coinmarketcap.com/currencies/zcash/): Alakh predicts  2x in the next couple weeks
+		[Zcash](https://coinmarketcap.com/currencies/zcash/): Alakh predicts  2x in the next couple weeks
 
 
 Other coins:
