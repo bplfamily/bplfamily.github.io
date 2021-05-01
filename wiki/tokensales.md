@@ -1,15 +1,21 @@
 # Token Sales
 
 
-## Mina Sale
-
-Mina Protocol. Mina Protocol Sale Option 1 opens April 13, 14:00 UTC Options 2 open April 16, 14:00 UTC Sale on Coinlist. Maximum cap is $1000. Sale will be really competitive.
-
-The world’s lightest blockchain, creating a private gateway between the real world and crypto.
+## IEOs
 
 
-Ankit's suggestion: We buy $2500 worth of Mina.
+On FTX:
+	1. https://mercurialfi.medium.com/mercurial-finance-dynamic-vaults-for-stables-b7d0c3bed702
 
-## Casper Sale
+On Serum:
 
-Empty hands
+
+## Airdrops
+
+
+
+
+## Completed sales
+
+	1. Mina sale
+	2. Rly sale
