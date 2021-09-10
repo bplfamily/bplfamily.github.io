@@ -57,6 +57,8 @@ defaults:
       layout: "git-wiki-blog"
 
 plugins:
+ - jekyll-remote-theme
+ - jekyll-paginate
  - jekyll-redirect-from
  - jekyll-seo-tag
  - jekyll-sitemap

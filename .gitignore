@@ -1,2 +1,6 @@
 _site
 Gemfile.lock
+
+# For local deployment
+**/Gemfile*.lock
+.jekyll-*
