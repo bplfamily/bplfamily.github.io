@@ -1,3 +1,7 @@
+---
+title: Investments
+---
+
 | Coin   |      Invested at    |  Total Investment | Profit/Loss
 |----------|:-------------:|:-----:| ---------:|
 | XRT  | 60.2 | $300 | +$65 |

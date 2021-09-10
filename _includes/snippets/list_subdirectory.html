@@ -1,0 +1,11 @@
+{% assign all_pages = site.html_pages | sort: 'title' %}
+{% for page in all_pages %}
+    {% if page.is_wiki_page != false and page.sitemap != false %}
+        {% assign is_subpath = page.path | startswith: subdirectory %}
+        {% assign page_path_striped = page.path | remove_file_extension %}
+        {% if is_subpath and page_path_striped != subdirectory %}
+            {% assign title = page.title | default: page.name %}
+1. <a href="{{ page.url | relative_url }}">{{ title | escape }}</a>
+        {% endif %}
+    {% endif %}
+{% endfor %}

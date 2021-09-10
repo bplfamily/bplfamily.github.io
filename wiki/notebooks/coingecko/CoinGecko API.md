@@ -1,3 +1,7 @@
+---
+title: CoinGecko API
+---
+
 # Preamble
 
 Let's set up the environment first. We need the coingecko API to fetch prices, and pandas to work with timeseries (and tabular data in general).
