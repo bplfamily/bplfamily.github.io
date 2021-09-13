@@ -68,19 +68,10 @@ fetch(coingecko_url)
 
 </script>
 
-{% comment %}
-<div id="dprice"></div>
-<script>
-    fetch('https://api.coingecko.com/api/v3/coins/mina-protocol?tickers=true&market_data=true&community_data=true&developer_data=true&sparkline=false')
-    .then((response) => {
-      return response.text();
-    })
-    .then((myContent) => {
-        var market = JSON.parse(myContent);
-        var info = market["market_data"]["current_price"]["usd"];
-        document.getElementById('dprice').innerHTML = info;
-    });
-</script>
-{% endcomment %}
-
 Note: to edit this table, see the `_data/{{ csv_file_id}}.csv` file in the repository.
+
+Token sales:
+- Mina: $500 -> 2000 Mina
+- Efinity: $500 -> 2500 EFI
+- Centrifuge: $500 -> ???
+- Immutable X: $500 -> 50 ???
